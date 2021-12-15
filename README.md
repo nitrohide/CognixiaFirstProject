@@ -2,7 +2,7 @@
 Employee Database Project
 
 
-sample inputs:
+# Sample inputs:
 Add:
 A,joe,bob, 12/15/2020, 12345, tech
 A,Chenghao,LIn, 11/15/2020, 12345, tech
